@@ -35,6 +35,9 @@ body{
 	height : 230px;
 	margin-top : 20px;
 }
+.cover{
+	background-color : rgb(46, 204, 113);
+}
 .info{
 	width : 100% ;
 	display : flex ;
