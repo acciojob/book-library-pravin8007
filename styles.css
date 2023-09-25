@@ -8,8 +8,9 @@ body{
 	flex-direction : column;
 	justify-content : center;
 	align-items : center;
-	width : 50% ;
+	width : 98% ;
 	margin : 10px;
+	margin-rigth : 20px;
 	box-shadow : 1px 1px 10px black ;
 }
 .title{
@@ -47,7 +48,7 @@ body{
 	padding : 1px;
 }
 .Price{
-	background-color : #2ecc71; 
+	background-color : rgb(46, 204, 113); 
 	width : 95%;
 	height : 30px;
 	display : flex ;
