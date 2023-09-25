@@ -3,14 +3,14 @@ body{
 /* 	background-color :#f8f8f8 ; */
 }
 .book-library{
-/* 	Background-color : #ffffff;  */
+	Background-color : #ffffff; 
 	display : flex;
 	flex-direction : column;
 	justify-content : center;
 	align-items : center;
 	width : 98vw ;
 	margin : 10px;
-	border-radius : 10px;
+	border-radius : 100px;
 }
 .title{
 	background-color : #f8f8f8;
@@ -32,9 +32,17 @@ body{
 	margin-top : 20px;
 }
 .info{
-	display : flex;
-	flex-direction : column ;
-	line-height: 0;
-	text-align : left;
+	width : 100%;
+	display : flex ;
+	flex-direction : column;
 	justify-content : left;
+	line-height : 0;
+	text-align : left;
+	margin-left : 30px;
+}
+.Aut{
+	color : #777777;
+}
+.Price{
+	background-color : #2ecc71;  
 }
