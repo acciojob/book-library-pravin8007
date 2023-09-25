@@ -16,12 +16,12 @@ body{
 	overflow : hidden;
 }
 .title{
-	background-color : rgb(240, 240, 240);
+/* 	background-color : rgb(240, 240, 240); */
 	width : 100%;
 	text-align : center;
 }
 .book{
-    Background-color : rgb(240, 240, 240) ; 
+/*     Background-color : rgb(240, 240, 240) ;  */
 	width : 100%;
 	margin-top : 20px;
 	display : flex;
