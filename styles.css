@@ -26,9 +26,10 @@ body{
 	justify-content : center;
 	align-items : center;
 	gap : 10px;
+	font-size : 15px;
 }
 .book img{
-	height : 200px;
+	height : 230px;
 	margin-top : 20px;
 }
 .info{
@@ -44,5 +45,14 @@ body{
 	color : #777777;
 }
 .Price{
-	background-color : #2ecc71;  
+	background-color : #2ecc71; 
+	width : 95%;
+	height : 30px;
+	display : flex ;
+	justify-content : center ;
+	align-items : center ;
+	color : white;
+	font-size : 20px;
+	margin-bottom : 20px;
+	border-radius : 5px;
 }
