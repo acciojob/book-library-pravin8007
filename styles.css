@@ -19,7 +19,7 @@ body{
 	text-align : center;
 }
 .book{
-/* 	background-color : #f8f8f8; */
+	background-color : #f8f8f8;
 	width : 100%;
 	margin-top : 20px;
 	display : flex;
