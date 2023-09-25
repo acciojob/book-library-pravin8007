@@ -48,7 +48,7 @@ body{
 	padding : 1px;
 }
 .Price{
-	background-color: rgb(46, 204, 113);
+    background-color: #2ecc71;
 	width : 97%;
 	height : 30px;
 	display : flex ;
